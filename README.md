@@ -4,3 +4,9 @@ Shows the current working directory.
 
 Example:
 pwd
+
+## ls
+Lists files and directories in the current directory.
+
+Example:
+ls
