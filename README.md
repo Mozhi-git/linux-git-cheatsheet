@@ -16,3 +16,9 @@ Changes the current working directory.
 
 Example:
 cd Documents
+
+## mkdir
+Creates a new directory.
+
+Example:
+mkdir Projects
