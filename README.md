@@ -22,3 +22,9 @@ Creates a new directory.
 
 Example:
 mkdir Projects
+
+## touch
+Creates a new empty file.
+
+Example:
+touch notes.txt
