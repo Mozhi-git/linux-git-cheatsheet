@@ -21,6 +21,7 @@ cd Documents
 Creates a new directory.
 
 Example:
+
 mkdir Projects
 
 ## touch
@@ -28,3 +29,10 @@ Creates a new empty file.
 
 Example:
 touch notes.txt
+
+## cp
+Copies a file or directory.
+
+Example:
+cp notes.txt backup.txt
+
