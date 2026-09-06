@@ -36,3 +36,9 @@ Copies a file or directory.
 Example:
 cp notes.txt backup.txt
 
+
+## mv
+Moves or renames a file or directory.
+
+Example:
+mv notes.txt documents/
