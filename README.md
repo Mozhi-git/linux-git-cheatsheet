@@ -54,3 +54,9 @@ Initializes a new Git repository.
 
 Example:
 git init
+
+## git status
+Shows the current status of the working directory and staging area.
+
+Example:
+git status
