@@ -42,3 +42,9 @@ Moves or renames a file or directory.
 
 Example:
 mv notes.txt documents/
+
+## rm
+Removes a file or directory.
+
+Example:
+rm notes.txt
