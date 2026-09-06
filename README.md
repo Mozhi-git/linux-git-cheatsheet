@@ -48,3 +48,9 @@ Removes a file or directory.
 
 Example:
 rm notes.txt
+
+## git init
+Initializes a new Git repository.
+
+Example:
+git init
