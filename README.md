@@ -66,3 +66,9 @@ Adds changes to the staging area.
 
 Example:
 git add README.md
+
+## git commit
+Records staged changes in the repository.
+
+Example:
+git commit -m "Add changes"
