@@ -84,3 +84,9 @@ Switches from one Git branch to another.
 
 Example:
 git switch main
+
+## git merge
+Combines changes from one Git branch into another.
+
+Example:
+git merge command-git-merge
