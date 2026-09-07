@@ -78,3 +78,9 @@ Lists, creates, or manages branches in a Git repository.
 
 Example:
 git branch
+
+## git switch
+Switches from one Git branch to another.
+
+Example:
+git switch main
