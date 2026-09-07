@@ -60,3 +60,9 @@ Shows the current status of the working directory and staging area.
 
 Example:
 git status
+
+## git add
+Adds changes to the staging area.
+
+Example:
+git add README.md
