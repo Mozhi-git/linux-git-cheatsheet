@@ -72,3 +72,9 @@ Records staged changes in the repository.
 
 Example:
 git commit -m "Add changes"
+
+## git branch
+Lists, creates, or manages branches in a Git repository.
+
+Example:
+git branch
